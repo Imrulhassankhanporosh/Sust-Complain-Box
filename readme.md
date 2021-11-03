@@ -1,4 +1,4 @@
-SUST Complain Box is a complant management system where users can submit their complains with different catagory and admin can overview the complains and take actions against them after checking the authentication of the users.We used PHP Laravel framework,CSS,HTML5,Bootsrap and MySQL for this project. 
+SUST Complain Box is a complant management system where users can submit their complains with different catagory and admin can overview the complains and take actions against them after checking the authentication of the users.We have used PHP Laravel framework, CSS, HTML5, Bootsrap and MySQL for this project. 
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
